@@ -5,5 +5,4 @@ Upload all the files in a folder (i.e, sender.py, receiver.py and file.jpg) and 
 
 
 
-### Gayathri Chilukuri
-### SE20UARI055
+### Gayathri Chilukuri - SE20UARI055
